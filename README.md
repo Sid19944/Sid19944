@@ -1,9 +1,52 @@
 <h1 align="center">Hi 👋, I'm Siddharth Sarkar</h1>
-<h3 align="center">🚀 MERN Stack Developer | India</h3>
+<h3 align="center">🚀 MERN Stack Developer | Building Real-Time Apps</h3>
+<p align="center">
+      <img
+        src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Engineer;Real-Time+App+Builder;Open+Source+Enthusiast"
+      />
+    </p>
+⚡ GitHub Analytics
+    <p align="center">
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=Sid19944&show_icons=true&theme=tokyonight"
+        height="180"
+      />
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sid19944&layout=compact&theme=tokyonight"
+        height="180"
+      />
+    </p>
+    🔥 Streak Stats
+    <p align="center">
+      <img
+        src="https://streak-stats.demolab.com/?user=Sid19944&theme=tokyonight"
+      />
+    </p>
+    🛠️ Tech Stack
+    <p align="center">
+      <img
+        src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js,ts,html,css,tailwind,git,github,vscode"
+      />
+    </p>
 
-<!--
-**Sid19944/Sid19944** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  🐍 Contribution Snake
 
+  <p align="center">
+      <img
+        src="https://raw.githubusercontent.com/Sid19944/Sid19944/output/github-contribution-grid-snake.svg"
+      />
+    </p>
+    🌐 Connect With Me
+    <p align="center">
+      <a href="https://linkedin.com/in/YOUR_PROFILE">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" />
+      </a>
+      <a href="mailto:yourmail@gmail.com">
+        <img src="https://img.shields.io/badge/Email-red?logo=gmail" />
+      </a>
+    </p>
+
+    
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
