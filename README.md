@@ -32,7 +32,7 @@
   🐍 Contribution Snake
 
   <p align="center">
-  <img src="https://raw.githubusercontent.com/Sid19944/Sid19944/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Sid19944/Sid19944/output/snake.svg" />
 </p>
     🌐 Connect With Me
     <p align="center">
