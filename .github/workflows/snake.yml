@@ -10,10 +10,15 @@ jobs:
     runs-on: ubuntu-latest
 
     permissions:
-      contents: write   # REQUIRED to push files
+      contents: write
 
     steps:
-      - name: Generate snake files
+      # ✅ STEP 1 — Checkout repo (IMPORTANT)
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # ✅ STEP 2 — Generate snake SVG
+      - name: Generate snake animation
         uses: Platane/snk@v3
         with:
           github_user_name: Sid19944
@@ -21,22 +26,17 @@ jobs:
             dist/snake.svg
             dist/snake-dark.svg?palette=github-dark
 
+      # ✅ STEP 3 — Push to output branch
       - name: Push to output branch
-        uses: actions/github-script@v7
-        with:
-          script: |
-            const fs = require('fs');
-            const { execSync } = require('child_process');
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
 
-            execSync('git config user.name "github-actions"');
-            execSync('git config user.email "github-actions@github.com"');
+          git checkout --orphan output
+          git rm -rf .
 
-            execSync('git checkout --orphan output');
-            execSync('git rm -rf .');
+          cp -r dist/* .
 
-            execSync('cp -r dist/* .');
-
-            execSync('git add .');
-            execSync('git commit -m "Update snake"');
-
-            execSync('git push -f origin output');
+          git add .
+          git commit -m "Update snake animation"
+          git push -f origin output
