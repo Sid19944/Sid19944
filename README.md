@@ -25,17 +25,15 @@
     🛠️ Tech Stack
     <p align="center">
       <img
-        src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js,ts,html,css,tailwind,git,github,vscode"
+        src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js,html,css,tailwind,git,github,vscode,redux,redis"
       />
     </p>
 
   🐍 Contribution Snake
 
   <p align="center">
-      <img
-        src="https://raw.githubusercontent.com/Sid19944/Sid19944/output/github-contribution-grid-snake.svg"
-      />
-    </p>
+  <img src="https://raw.githubusercontent.com/Sid19944/Sid19944/output/github-contribution-grid-snake-dark.svg" />
+</p>
     🌐 Connect With Me
     <p align="center">
       <a href="https://linkedin.com/in/YOUR_PROFILE">
