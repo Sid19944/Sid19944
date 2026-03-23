@@ -36,7 +36,7 @@
 </p>
     🌐 Connect With Me
     <p align="center">
-      <a href="www.linkedin.com/in/siddharth-sarkar-622404298">
+      <a href="https://www.linkedin.com/in/siddharth-sarkar-622404298">
         <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" />
       </a>
       <a href="mailto:sidsarkar2112@gmail.com">
