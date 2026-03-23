@@ -36,10 +36,10 @@
 </p>
     🌐 Connect With Me
     <p align="center">
-      <a href="https://linkedin.com/in/YOUR_PROFILE">
+      <a href="www.linkedin.com/in/siddharth-sarkar-622404298">
         <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" />
       </a>
-      <a href="mailto:yourmail@gmail.com">
+      <a href="mailto:sidsarkar2112@gmail.com">
         <img src="https://img.shields.io/badge/Email-red?logo=gmail" />
       </a>
     </p>
@@ -48,7 +48,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning : Type Script & Next.js
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
