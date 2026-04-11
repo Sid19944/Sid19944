@@ -8,11 +8,7 @@
 ⚡ GitHub Analytics
     <p align="center">
       <img
-        src="https://github-readme-stats.vercel.app/api?username=Sid19944&show_icons=true&theme=tokyonight"
-        height="180"
-      />
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sid19944&layout=compact&theme=tokyonight"
+        src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=sid19944&hide_title=false&layout=compact&theme=gotham&count_private=true"
         height="180"
       />
     </p>
