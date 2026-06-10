@@ -10,11 +10,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=sid19944&show_icons=true&theme=tokyonight" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sid19944&layout=compact&theme=tokyonight" height="170" />
 </p>
-    <p align="center">
+    <!-- <p align="center">
       <img
         src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=sid19944&hide_title=false&layout=compact&theme=gotham&count_private=true"
         height="180"
-      />
+      /> -->
     </p>
     🔥 Streak Stats
     <p align="center">
